@@ -1,18 +1,17 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "Christian Walker"
 theme = "hugo-resume"
 publishDir = "dist"
 
 [params]
-    firstName = "Eddie"
-    lastName = "Webb"
-    address = "Rollinsford, NH"
-    phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
+    firstName = "Christian"
+    lastName = "Walker"
+    address = "Allegheny College  "
+    contactNote = "Entrepreneur"
     profileImage = "img/TechChat.png"
-    email = "email@domain.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    email = "walkerc3@allegheny.edu"
+    description = "God first. College Student. Entrepreneur."
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
@@ -26,12 +25,12 @@ publishDir = "dist"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/cdwalkers/"
 
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/dubswalker/PanelCV"
 
 [[params.handles]]
     name = "Bitbucket"
